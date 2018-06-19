@@ -1,0 +1,1 @@
+vsim testbench -novopt
